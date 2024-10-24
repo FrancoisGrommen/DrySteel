@@ -1,6 +1,6 @@
 ---
 identifier: wooden-camera
-name: Appereil photo pour aveugle
+name: FujiFilm
 price: 24.00
 image: /assets/images/wooden-camera.png
 title: ToyStore - Wooden Camera
