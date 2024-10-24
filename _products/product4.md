@@ -1,6 +1,6 @@
 ---
 identifier: lift-machine
-name: Lift Machine
+name: depaneuz dl'a morkitue
 price: 24.00
 image: /assets/images/lift-machine.png
 title: ToyStore - Lift Machine
