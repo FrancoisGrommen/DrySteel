@@ -1,6 +1,6 @@
 ---
 identifier: happy-flower
-name: Happy Flower
+name: Joyeuse fleur dansante
 price: 38.00
 image: /assets/images/happyflower.png
 title: ToyStore - Happy Flower
