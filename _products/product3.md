@@ -1,6 +1,6 @@
 ---
 identifier: mega-plush-toy
-name: Mega Plush Toy
+name: Mega peluche Bouftou Dofus
 price: 38.00
 image: /assets/images/mega-plush-toy.png
 title: ToyStore - Mega Plush Toy
